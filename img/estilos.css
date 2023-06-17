@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(matilda.png);   
+    background-size: 400;
+    background-position: center;
+    font-family: sans-serif;
+}
